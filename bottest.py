@@ -8,7 +8,7 @@ inlinekeyboard = [[InlineKeyboardButton("Show Recall", callback_data=8342),
 reply_markup = InlineKeyboardMarkup(inlinekeyboard)
 
 
-chat_id=-260850066
+chat_id=-1828737 #test chat id
 access_token = 'you-access-token=here'
 
 bot = Bot(access_token)
